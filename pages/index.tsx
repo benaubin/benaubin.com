@@ -12,9 +12,14 @@ const Home = () => (
       <h1>Ben Aubin</h1>
 
       <p>
-        Hi. I'm Ben Aubin. I make <i>awesome</i> things with really cool people.
+        👋 Hi. I'm Ben Aubin. I make <i>awesome</i> things with really cool people 
+        (and, often, code).
         I want to make the world better.
       </p>
+
+      <i style={{fontSize: "0.8em"}}>
+        Student & <a href="https://hackclub.com/">Hack Club</a> leader at <a href="http://www.eayoungacademy.com/">EA Young Academy</a>
+      </i>
     </div>
 
     <div className="card">
