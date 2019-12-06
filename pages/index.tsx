@@ -108,7 +108,11 @@ const Home = () => (
 
     <footer>
       <p>© Copyright 2019 Ben Aubin</p>
-      <p><a href="https://github.com/benaubin/benaubin.com">Open Source</a> under the MIT License</p>
+      <p>
+        <a href="https://github.com/benaubin/benaubin.com">Open Source</a>
+        &nbsp;under the&nbsp;
+        <a href="https://github.com/benaubin/benaubin.com/blob/master/LICENSE">MIT License</a>
+      </p>
     </footer>
   
     <style jsx>{`
