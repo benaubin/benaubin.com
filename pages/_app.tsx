@@ -15,6 +15,16 @@ class MyApp extends App {
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"/>
 
         <script id="hs-script-loader" src="https://js.hs-scripts.com/6238237.js" type="text/javascript" async/>
+
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-75923316-5"></script>
+        <script dangerouslySetInnerHTML={{__html: `
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-75923316-5');
+        `}}/>
+
       </Head>
       <Component {...pageProps} />
 
