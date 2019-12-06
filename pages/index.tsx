@@ -23,7 +23,7 @@ const Home = () => (
     </div>
 
     <div className="card">
-      <h2>In The News:</h2>
+      <h2>In The News</h2>
 
       <p>
         <a href="https://www.wsj.com/articles/what-i-did-at-summer-camp-stocks-and-personal-finance-1528078200">Wall Street Journal</a><br/>
@@ -41,7 +41,7 @@ const Home = () => (
     </div>
 
     <div className="card">
-      <h2>A Few Projects:</h2>
+      <h2>A Few Projects</h2>
 
       <p>
         <a href="https://moolahu.app">moolah by Moolah U</a><br/>
@@ -78,7 +78,7 @@ const Home = () => (
     </div>
 
     <div className="card">
-      <h2>Writings:</h2>
+      <h2>Writings</h2>
       
       <p>
         <a href="https://docs.google.com/document/d/1zVgf5JmcxWKTeKl7QaSNr0f9yNlIET4zseYCf5Y5ub0/edit?usp=sharing">
