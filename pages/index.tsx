@@ -18,6 +18,24 @@ const Home = () => (
     </div>
 
     <div className="card">
+      <h2>In The News:</h2>
+
+      <p>
+        <a href="https://www.wsj.com/articles/what-i-did-at-summer-camp-stocks-and-personal-finance-1528078200">Wall Street Journal</a><br/>
+        "After his first entrepreneurial adventure at camp at 8—developing a duct-tape bracelet with his team,
+        then selling it and coming home with a small check—he says he became a “startups” guy. This spring, on his own, he launched his third app, a tool to help young drivers with learner's permits track their hours behind the wheel."
+      </p>
+  
+      <p>
+        <a href="https://www.pitchakid.com/ben-aubin-founder-of-own-a-sheep-kid-entrepreneur-highlight/">Pitch-a-Kid</a>
+      </p>
+
+      <p>
+        <a href="http://www.siliconhillsnews.com/2019/06/22/startups-showcase-their-ventures-at-masschallenge-texas-austin-2019-event/">Silicon Hills News</a>
+      </p>
+    </div>
+
+    <div className="card">
       <h2>A Few Projects:</h2>
 
       <p>
@@ -28,6 +46,11 @@ const Home = () => (
       <p>
         <a href="http://byben.xyz/solve-words/"><code>solve-words</code></a><br/>
         Solving word problems with computers.
+      </p>
+
+      <p>
+        <a href="https://apps.apple.com/us/app/modern-driving-log/id1378720308">Modern Driving Log</a><br/>
+        Supporting teens learn to drive.
       </p>
 
       <p>
