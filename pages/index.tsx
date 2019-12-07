@@ -12,9 +12,8 @@ const Home = () => (
       <h1>Ben Aubin</h1>
 
       <p>
-        👋 Hi. I'm Ben Aubin. I make <i>awesome</i> things with really cool people 
-        (and, often, code).
-        I want to make the world better.
+        👋 Hi. I'm Ben Aubin. I craft <i>awesome</i> technology
+        to make our world better.
       </p>
 
       <i style={{fontSize: "0.8em"}}>
