@@ -49,12 +49,12 @@ const Home = () => (
   
       <p>
         <a href="http://byben.xyz/solve-words/"><code>solve-words</code></a><br/>
-        Solving word problems with computers.
+        Artificialy intelligent neural networks that word problems with computers.
       </p>
 
       <p>
         <a href="https://apps.apple.com/us/app/modern-driving-log/id1378720308">Modern Driving Log</a><br/>
-        Supporting teens learn to drive.
+        An app that helps teens get their driver's license.
       </p>
 
       <p>
