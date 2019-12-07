@@ -49,7 +49,7 @@ const Home = () => (
   
       <p>
         <a href="http://byben.xyz/solve-words/"><code>solve-words</code></a><br/>
-        Artificialy intelligent neural networks that word problems with computers.
+        Machine learning to solve word problems.
       </p>
 
       <p>
