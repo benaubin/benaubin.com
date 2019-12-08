@@ -21,6 +21,23 @@ const Home = () => (
         Last summer, I led the development of <a target="_blank" href="https://moolahu.app">moolah by Moolah U</a>, an upcoming app to
         give young people hands-on experience with money.
       </p>
+
+      <hr/>
+
+      <ul className="socials">
+        <li>
+          <a target="_blank" href="https://www.github.com/BenAubin">GitHub</a>
+        </li>
+        <li>
+          <a target="_blank" href="https://twitter.com/@BenAubin_">Twitter</a>
+        </li>
+        <li>
+          <a target="_blank" href="https://www.linkedin.com/in/benaubin/">LinkedIn</a>
+        </li>
+        <li>
+          <a target="_blank" href="https://keybase.io/penne">Keybase</a>
+        </li>
+      </ul>
     </div>
 
     <div className="card">
@@ -96,31 +113,18 @@ const Home = () => (
       </p>
     </div>
 
-    <div className="card">
-      <h2>Find Me</h2>
-
-      <ul className="socials">
-        <li>
-          <a target="_blank" href="https://www.github.com/BenAubin">GitHub</a>
-        </li>
-        <li>
-          <a target="_blank" href="https://twitter.com/@BenAubin_">Twitter</a>
-        </li>
-        <li>
-          <a target="_blank" href="https://www.linkedin.com/in/benaubin/">LinkedIn</a>
-        </li>
-        <li>
-          <a target="_blank" href="https://keybase.io/penne">Keybase</a>
-        </li>
-      </ul>
-    </div>
-
     <footer>
       <p>© Copyright 2019 Ben Aubin</p>
+    
+
       <p>
         <a target="_blank" href="https://github.com/benaubin/benaubin.com">Open Source</a>
         &nbsp;under the&nbsp;
         <a target="_blank" href="https://github.com/benaubin/benaubin.com/blob/master/LICENSE">MIT License</a>
+      </p>  
+
+      <p style={{fontFamily: "'Source Code Pro', monospace", fontSize: "10px"}}>
+        PGP: <a target="_blank" href="https://keybase.io/penne/pgp_keys.asc">8AF8 4D61 D3B2 C22D</a>
       </p>
     </footer>
   
