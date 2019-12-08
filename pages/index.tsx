@@ -12,80 +12,85 @@ const Home = () => (
       <h1>Ben Aubin</h1>
 
       <p>
-        👋 Hi. I'm Ben Aubin. I craft <i>awesome</i> technology
-        to make our world better.
+        I'm a software developer & student at <a target="_blank" href="http://www.eayoungacademy.com/">EA Young Academy</a>.
+        I conduct machine-learning research, build websites, launch apps, and run a development agency for
+        small businesses.
       </p>
 
-      <i style={{fontSize: "0.8em"}}>
-        Student & <a href="https://hackclub.com/">Hack Club</a> leader at <a href="http://www.eayoungacademy.com/">EA Young Academy</a>
-      </i>
+      <p>
+        Last summer, I led the development of <a target="_blank" href="https://moolahu.app">moolah by Moolah U</a>, an upcoming app to
+        give young people hands-on experience with money.
+      </p>
     </div>
 
     <div className="card">
-      <h2>In The News</h2>
+      <h2>In the news</h2>
 
       <p>
-        <a href="https://www.wsj.com/articles/what-i-did-at-summer-camp-stocks-and-personal-finance-1528078200">Wall Street Journal</a><br/>
+        <a target="_blank" href="https://www.wsj.com/articles/what-i-did-at-summer-camp-stocks-and-personal-finance-1528078200">Wall Street Journal</a><br/>
         "After his first entrepreneurial adventure at camp at 8—developing a duct-tape bracelet with his team,
         then selling it and coming home with a small check—he says he became a “startups” guy. This spring, on his own, he launched his third app, a tool to help young drivers with learner's permits track their hours behind the wheel."
       </p>
   
       <p>
-        <a href="https://www.pitchakid.com/ben-aubin-founder-of-own-a-sheep-kid-entrepreneur-highlight/">Pitch-a-Kid</a>
+        <a target="_blank" href="https://www.pitchakid.com/ben-aubin-founder-of-own-a-sheep-kid-entrepreneur-highlight/">Pitch-a-Kid</a>
       </p>
 
       <p>
-        <a href="http://www.siliconhillsnews.com/2019/06/22/startups-showcase-their-ventures-at-masschallenge-texas-austin-2019-event/">Silicon Hills News</a>
+        <a target="_blank" href="http://www.siliconhillsnews.com/2019/06/22/startups-showcase-their-ventures-at-masschallenge-texas-austin-2019-event/">Silicon Hills News</a>
       </p>
     </div>
 
     <div className="card">
-      <h2>A Few Projects</h2>
+      <h2>A few projects</h2>
 
       <p>
-        <a href="https://moolahu.app">moolah by Moolah U</a><br/>
+        <a target="_blank" href="https://moolahu.app">moolah by Moolah U</a><br/>
         Hands-on experience with money for future adults.
       </p>
   
       <p>
-        <a href="http://byben.xyz/solve-words/"><code>solve-words</code></a><br/>
+        <a target="_blank" href="http://byben.xyz/solve-words/"><code>solve-words</code></a><br/>
         Machine learning to solve word problems.
       </p>
 
       <p>
-        <a href="https://apps.apple.com/us/app/modern-driving-log/id1378720308">Modern Driving Log</a><br/>
+        <a target="_blank" href="https://apps.apple.com/us/app/modern-driving-log/id1378720308">Modern Driving Log</a><br/>
         An app that helps teens get their driver's license.
       </p>
 
       <p>
-        <a href="https://bijoudelmare.com">Bijou Del Mare</a><br/>
+        <a target="_blank" href="https://bijoudelmare.com">Bijou Del Mare</a><br/>
         An amazing store for hand-crafted jewelry.
       </p>
 
       <p>
-        <a href="http://planhw.com">PlanHW (archived)</a><br/>
+        <a target="_blank" href="http://planhw.com">PlanHW (archived)</a><br/>
         Organization for modern students.
       </p>
     </div>
 
     <div className="card">
-      <h2>Work With Me</h2>
+      <h2>Let's work together</h2>
+      <p><i>"You are awesome... I appreciate your involvement and enthusiasm. We are fortunate to have you!”</i> - Gayle Reaume, Moolah U</p>
+      <p><i>"Patient. Quick. Knowledgeable. Helpful. I couldn’t be happier!"</i> - Christine Augustine, Bijou Del Mare</p>
       <p>
-        My team and I are always looking for exciting projects. Meet my agency
-        at <a href="https://bensites.com">bensites.com</a>.
+        I love building great software for great people.
+        Hire me
+        at <a target="_blank" href="https://bensites.com">bensites.com</a>.
       </p>
     </div>
 
     <div className="card">
-      <h2>Writings</h2>
+      <h2>Academic projects</h2>
       
       <p>
-        <a href="https://docs.google.com/document/d/1zVgf5JmcxWKTeKl7QaSNr0f9yNlIET4zseYCf5Y5ub0/edit?usp=sharing">
+        <a target="_blank" href="https://docs.google.com/document/d/1zVgf5JmcxWKTeKl7QaSNr0f9yNlIET4zseYCf5Y5ub0/edit?usp=sharing">
           The Effectiveness of Game-Based Learning
         </a>
       </p>
       <p>
-        <a href="https://docs.google.com/document/d/1OY74ldZkVdzbrooayzalMe5ehOmB1UeQkUraeBGi75Y/edit?usp=sharing">
+        <a target="_blank" href="https://docs.google.com/document/d/1OY74ldZkVdzbrooayzalMe5ehOmB1UeQkUraeBGi75Y/edit?usp=sharing">
           The Politics and Policies Of Environmentalism
         </a>
       </p>
@@ -96,16 +101,16 @@ const Home = () => (
 
       <ul className="socials">
         <li>
-          <a href="https://www.github.com/BenAubin">GitHub</a>
+          <a target="_blank" href="https://www.github.com/BenAubin">GitHub</a>
         </li>
         <li>
-          <a href="https://twitter.com/@BenAubin_">Twitter</a>
+          <a target="_blank" href="https://twitter.com/@BenAubin_">Twitter</a>
         </li>
         <li>
-          <a href="https://www.linkedin.com/in/benaubin/">LinkedIn</a>
+          <a target="_blank" href="https://www.linkedin.com/in/benaubin/">LinkedIn</a>
         </li>
         <li>
-          <a href="https://keybase.io/penne">Keybase</a>
+          <a target="_blank" href="https://keybase.io/penne">Keybase</a>
         </li>
       </ul>
     </div>
@@ -113,9 +118,9 @@ const Home = () => (
     <footer>
       <p>© Copyright 2019 Ben Aubin</p>
       <p>
-        <a href="https://github.com/benaubin/benaubin.com">Open Source</a>
+        <a target="_blank" href="https://github.com/benaubin/benaubin.com">Open Source</a>
         &nbsp;under the&nbsp;
-        <a href="https://github.com/benaubin/benaubin.com/blob/master/LICENSE">MIT License</a>
+        <a target="_blank" href="https://github.com/benaubin/benaubin.com/blob/master/LICENSE">MIT License</a>
       </p>
     </footer>
   
