@@ -99,7 +99,7 @@ const Home = () => (
     </div>
 
     <div className="card">
-      <h2>Academic projects</h2>
+      <h2>Academic work</h2>
       
       <p>
         <a target="_blank" href="https://docs.google.com/document/d/1zVgf5JmcxWKTeKl7QaSNr0f9yNlIET4zseYCf5Y5ub0/edit?usp=sharing">
