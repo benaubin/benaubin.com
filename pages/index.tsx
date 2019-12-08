@@ -35,7 +35,7 @@ const Home = () => (
           <a target="_blank" href="https://www.linkedin.com/in/benaubin/">LinkedIn</a>
         </li>
         <li>
-          <a target="_blank" href="https://keybase.io/penne">Keybase</a>
+          <a target="_blank" className="keybase" href="https://keybase.io/penne">Keybase</a>
         </li>
       </ul>
     </div>
@@ -169,6 +169,12 @@ const Home = () => (
         width: 5rem;
 
         border-bottom: 0.3rem solid #0E1116;
+      }
+
+      @media(max-width: 33rem) {
+        .keybase {
+          display: none;
+        }
       }
 
       h1::after {
