@@ -65,11 +65,6 @@ const Home = () => (
         <a target="_blank" href="https://moolahu.app">moolah by Moolah U</a><br/>
         Hands-on experience with money for future adults.
       </p>
-  
-      <p>
-        <a target="_blank" href="http://byben.xyz/solve-words/"><code>solve-words</code></a><br/>
-        Machine learning to solve word problems.
-      </p>
 
       <p>
         <a target="_blank" href="https://apps.apple.com/us/app/modern-driving-log/id1378720308">Modern Driving Log</a><br/>
@@ -99,8 +94,13 @@ const Home = () => (
     </div>
 
     <div className="card">
-      <h2>Academic work</h2>
+      <h2>Research</h2>
       
+      <p>
+        <a target="_blank" href="https://figshare.com/articles/SolveWords_An_Algorithm_for_Automatically_Solving_Mathematical_Word_Problems_with_Machine_Learning/11340185"><code>solve-words</code></a><br/>
+        An Algorithm for Automatically Solving Mathematical Word Problems with Machine Learning
+      </p>
+
       <p>
         <a target="_blank" href="https://docs.google.com/document/d/1zVgf5JmcxWKTeKl7QaSNr0f9yNlIET4zseYCf5Y5ub0/edit?usp=sharing">
           The Effectiveness of Game-Based Learning
