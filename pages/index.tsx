@@ -118,7 +118,7 @@ const Home = () => (
     </div>
 
     <footer>
-      <p>© Copyright 2019 Ben Aubin</p>
+      <p>© Copyright 2020 Ben Aubin</p>
     
 
       <p>
