@@ -12,14 +12,17 @@ const Home = () => (
       <h1>Ben Aubin</h1>
 
       <p>
-        I'm a software developer & student at <a target="_blank" href="http://www.eayoungacademy.com/">EA Young Academy</a>.
+        I'm a software developer and the CEO & Co-Founder of <a href="https://mintere.com/" target="_blank">Mintere</a>, 
+        a marketing technology company. 
+      </p>
+        
+      <p>
         I conduct machine-learning research, build websites, launch apps, and run a development agency for
         small businesses.
       </p>
 
       <p>
-        Last summer, I led the development of <a target="_blank" href="https://moolahu.app">moolah by Moolah U</a>, an upcoming app to
-        give young people hands-on experience with money.
+        I go to school at <a target="_blank" href="http://www.eayoungacademy.com/">EA Young Academy</a>.
       </p>
 
       <hr/>
@@ -62,23 +65,24 @@ const Home = () => (
       <h2>A few projects</h2>
 
       <p>
+        <a target="_blank" href="https://mintere.com/">Mintere</a><br/>
+        I'm the CEO & a Co-Founder of Mintere. We create marketing software & strategy
+        for businesses of all sizes.
+      </p>
+      
+      <p>
         <a target="_blank" href="https://moolahu.app">moolah by Moolah U</a><br/>
-        Hands-on experience with money for future adults.
+        In Summer 2019, I led the development of an app to give young people hands-on experience with money.
       </p>
 
       <p>
         <a target="_blank" href="https://apps.apple.com/us/app/modern-driving-log/id1378720308">Modern Driving Log</a><br/>
-        An app that helps teens get their driver's license.
-      </p>
-
-      <p>
-        <a target="_blank" href="https://bijoudelmare.com">Bijou Del Mare</a><br/>
-        An amazing store for hand-crafted jewelry.
+        In Summer 2018, I launched an app that helps teens get their driver's license.
       </p>
 
       <p>
         <a target="_blank" href="http://planhw.com">PlanHW (archived)</a><br/>
-        Organization for modern students.
+        In 2016 & 2017, I ran an online homework planner for modern students.
       </p>
     </div>
 
