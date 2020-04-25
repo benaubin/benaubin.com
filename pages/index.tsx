@@ -56,6 +56,10 @@ const Home = () => (
         <a target="_blank" href="http://www.siliconhillsnews.com/2019/06/22/startups-showcase-their-ventures-at-masschallenge-texas-austin-2019-event/">Silicon Hills News</a>
       </p>
     </div>
+    
+    <div className="card">
+      <p><i>"You are awesome... I appreciate your involvement and enthusiasm. We are fortunate to have you!”</i> - Gayle Reaume, Moolah U</p>
+    </div>
 
     <div className="card">
       <h2>A few projects</h2>
@@ -83,14 +87,7 @@ const Home = () => (
     </div>
 
     <div className="card">
-      <h2>Let's work together</h2>
-      <p><i>"You are awesome... I appreciate your involvement and enthusiasm. We are fortunate to have you!”</i> - Gayle Reaume, Moolah U</p>
       <p><i>"Patient. Quick. Knowledgeable. Helpful. I couldn’t be happier!"</i> - Christine Augustine, Bijou Del Mare</p>
-      <p>
-        I love building great software for great people.
-        Hire me
-        at <a target="_blank" href="https://bensites.com">bensites.com</a>.
-      </p>
     </div>
 
     <div className="card">
