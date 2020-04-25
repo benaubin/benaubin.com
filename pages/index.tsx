@@ -12,13 +12,9 @@ const Home = () => (
       <h1>Ben Aubin</h1>
 
       <p>
-        I'm a software developer and the CEO & Co-Founder of <a href="https://mintere.com/" target="_blank">Mintere</a>, 
-        a marketing technology company. 
-      </p>
-        
-      <p>
-        I conduct machine-learning research, build websites, launch apps, and run a development agency for
-        small businesses.
+        I conduct machine-learning research, build websites and launch apps. I'm the CEO & Co-Founder of 
+        <a href="https://mintere.com/">Mintere</a>, where we build digital marketing software &
+        strategy for companies of all sizes.
       </p>
 
       <p>
@@ -66,7 +62,7 @@ const Home = () => (
 
       <p>
         <a target="_blank" href="https://mintere.com/">Mintere</a><br/>
-        I'm the CEO & a Co-Founder of Mintere. We create marketing software & strategy
+        I'm the CEO & Co-Founder of Mintere. We create marketing software & strategy
         for businesses of all sizes.
       </p>
       
