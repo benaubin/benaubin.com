@@ -12,7 +12,7 @@ const Home = () => (
       <h1>Ben Aubin</h1>
 
       <p>
-        I create software and run businesses. Code, carefully cultivated, can make the world better. Let's make that happen.
+        I create software and run businesses because code, carefully cultivated, can make the world better.
       </p>
  
       <p>
