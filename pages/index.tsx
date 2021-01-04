@@ -24,7 +24,7 @@ const Home = () => (
       </p>
 
       <p>
-        I go to school at <a target="_blank" href="http://www.eayoungacademy.com/">EA Young Academy</a> in North Texas.
+        I go to school at <a target="_blank" href="http://www.eayoungacademy.com/">EA Young Academy</a>.
       </p>
 
       <hr/>
