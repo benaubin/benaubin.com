@@ -12,7 +12,11 @@ const Home = () => (
       <h1>Ben Aubin</h1>
 
       <p>
-        I conduct machine-learning research, build websites and launch apps.
+        I create software and run businesses. Code, carefully cultivated, can make the world better. Let's make that happen.
+      </p>
+ 
+      <p>
+        Currently working on <a href="https://actors.dev/">actors.dev</a>.
       </p>
       
       <p>
@@ -58,10 +62,6 @@ const Home = () => (
         <a target="_blank" href="http://www.siliconhillsnews.com/2019/06/22/startups-showcase-their-ventures-at-masschallenge-texas-austin-2019-event/">Silicon Hills News</a>
       </p>
     </div>
-    
-    <div className="card">
-      <p><i>"You are awesome... I appreciate your involvement and enthusiasm. We are fortunate to have you!”</i> - Gayle Reaume, Moolah U</p>
-    </div>
 
     <div className="card">
       <h2>A few projects</h2>
@@ -89,12 +89,17 @@ const Home = () => (
     </div>
 
     <div className="card">
+      <p><i>"You are awesome... I appreciate your involvement and enthusiasm. We are fortunate to have you!”</i> - Gayle Reaume, Moolah U</p>
       <p><i>"Patient. Quick. Knowledgeable. Helpful. I couldn’t be happier!"</i> - Christine Augustine, Bijou Del Mare</p>
     </div>
 
     <div className="card">
       <h2>Research</h2>
       
+      <p>
+        Aubin, B., Rugh, M. S., Raymond, C., & Greer, M. (2021, February 3–5). Deep metric learning to evaluate student performance on standardized tests [Paper presentation]. Accepted for presentation at the 44th Annual Southwest Educational Research Association (SERA) Conference, Virtual/Online.
+      </p>
+
       <p>
         <a target="_blank" href="https://figshare.com/articles/SolveWords_An_Algorithm_for_Automatically_Solving_Mathematical_Word_Problems_with_Machine_Learning/11340185"><code>solve-words</code></a><br/>
         An Algorithm for Automatically Solving Mathematical Word Problems with Machine Learning
@@ -103,11 +108,6 @@ const Home = () => (
       <p>
         <a target="_blank" href="https://docs.google.com/document/d/1zVgf5JmcxWKTeKl7QaSNr0f9yNlIET4zseYCf5Y5ub0/edit?usp=sharing">
           The Effectiveness of Game-Based Learning
-        </a>
-      </p>
-      <p>
-        <a target="_blank" href="https://docs.google.com/document/d/1OY74ldZkVdzbrooayzalMe5ehOmB1UeQkUraeBGi75Y/edit?usp=sharing">
-          The Politics and Policies Of Environmentalism
         </a>
       </p>
     </div>
