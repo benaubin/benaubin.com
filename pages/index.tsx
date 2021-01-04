@@ -16,15 +16,15 @@ const Home = () => (
       </p>
  
       <p>
-        Currently working on <a href="https://actors.dev/">actors.dev</a>.
+        Currently working on <a href="https://actors.dev/">actors.dev</a>. It's serverless, but stateful.
       </p>
       
       <p>
-        I'm the CEO & Co-Founder of <a href="https://mintere.com/">Mintere</a>.
+        I'm the CEO & Co-Founder of <a href="https://mintere.com/">Mintere</a>. We use marketing and technology to grow businesses.
       </p>
 
       <p>
-        I go to school at <a target="_blank" href="http://www.eayoungacademy.com/">EA Young Academy</a>.
+        I go to school at <a target="_blank" href="http://www.eayoungacademy.com/">EA Young Academy</a> in North Texas.
       </p>
 
       <hr/>
