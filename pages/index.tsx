@@ -97,7 +97,9 @@ const Home = () => (
       <h2>Research</h2>
       
       <p>
-        Aubin, B., Rugh, M. S., Raymond, C., & Greer, M. (2021, February 3–5). Deep metric learning to evaluate student performance on standardized tests [Paper presentation]. Accepted for presentation at the 44th Annual Southwest Educational Research Association (SERA) Conference, Virtual/Online.
+        <a target="_blank" href="https://www.youtube.com/watch?v=EdayAhCklfo">
+          Aubin, B., Rugh, M. S., Raymond, C., & Greer, M. (2021, February 3–5). Deep metric learning to evaluate student performance on standardized tests [Paper presentation]. Accepted for presentation at the 44th Annual Southwest Educational Research Association (SERA) Conference, Virtual/Online.
+        </a>
       </p>
 
       <p>
